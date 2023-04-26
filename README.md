@@ -48,3 +48,6 @@ Here is a list of the IRC commands implemented and available in this server :
 - NOTICE
 
 You can find the meaning of each command in [the documentation of the IRC protocol](https://www.rfc-editor.org/rfc/rfc2812).
+
+### Documentation
+The [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/) helped us a lot in understanding network sockets and the multiple C functions for setting up a server.
